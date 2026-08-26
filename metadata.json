@@ -1,0 +1,6 @@
+{
+  "name": "HaulBack",
+  "description": "Smart return-load freight matching, live bidding rooms, real-time GPS telemetry on interactive Leaflet maps, and AI-optimized driver dispatch.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
