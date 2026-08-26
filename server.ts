@@ -1,10 +1,6 @@
 import express from 'express';
 import path from 'path';
-import { fileURLToPath } from 'url';
 import { handleApiRequest } from './src/server/apiRouter.js';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
 
 const app = express();
 const PORT = Number(process.env.PORT) || 3000;
@@ -20,8 +16,8 @@ app.use('/api', (req, res, next) => {
   handleApiRequest(req, res, next);
 });
 
-// Serve compiled frontend production assets
-const distPath = path.join(__dirname, 'dist');
+// Serve compiled frontend production assets from root dist directory
+const distPath = path.join(process.cwd(), 'dist');
 app.use(express.static(distPath));
 
 // SPA fallback routing
