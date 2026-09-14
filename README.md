@@ -214,10 +214,10 @@ The application includes built-in Express REST APIs:
 
 ## 👨‍💻 Author
 
-**Ravindra Raghuwanshi**
-- 📧 Email: [ravindraraghuwanshi487@gmail.com](mailto:ravindraraghuwanshi487@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com)
-- 🐙 GitHub: [@your-username](https://github.com)
+**Ravindra Raghuwanshi & Shiv Raghuwanshi **
+- 📧 Email: [ravindraraghuwanshi487@gmail.com](mailto:ravindraraghuwanshi487@gmail.com) | [shivraghuwanshi775@gmil.com](mailto:shivraghuwanshi775@gmail.com)
+- 💼 LinkedIn: [Ravindra](https://www.linkedin.com/in/ravindra-raghuwanshi-3a7150289/) | [Shiv](https://www.linkedin.com/in/shiv-raghuwanshi-246237305/)
+- 🐙 GitHub: [Ravindra](https://www.github.com/ravindra-raghu1c) | [shiv](https://github.com/shiv-raghu775)
 
 *Feel free to connect or open an issue if you have suggestions or questions!*
 
